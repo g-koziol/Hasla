@@ -1,0 +1,16 @@
+﻿Build started 2014-10-24 18:24:08.
+     1>Project "F:\drpobox\Dysk Google\Grzesiek\Dokumenty\STUDIA\JA\Projekt\Hasla\Hasla\Hasla.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         F:\Programy\Visual Studio 2012\VC\bin\CL.exe /c /I..\DLL /I"C:\Program Files (x86)\Visual Leak Detector\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D D_SCL_SECURE_NO_WARNINGS /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fx /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Main.c
+         Main.c
+       Link:
+         F:\Programy\Visual Studio 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\drpobox\Dysk Google\Grzesiek\Dokumenty\STUDIA\JA\Projekt\Hasla\Debug\Hasla.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\drpobox\Dysk Google\Grzesiek\Dokumenty\STUDIA\JA\Projekt\Hasla\Debug\Hasla.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\drpobox\Dysk Google\Grzesiek\Dokumenty\STUDIA\JA\Projekt\Hasla\Debug\Hasla.lib" /MACHINE:X86 Debug\Entry.obj
+         Debug\File.obj
+         Debug\Main.obj
+         Debug\Program.obj
+         Hasla.vcxproj -> F:\drpobox\Dysk Google\Grzesiek\Dokumenty\STUDIA\JA\Projekt\Hasla\Debug\Hasla.exe
+     1>Done Building Project "F:\drpobox\Dysk Google\Grzesiek\Dokumenty\STUDIA\JA\Projekt\Hasla\Hasla\Hasla.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.26

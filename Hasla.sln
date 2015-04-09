@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hasla", "Hasla\Hasla.vcxproj", "{70E8E83B-1ABE-47F9-B047-E95625C8A62B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLC", "DLLC\DLLC.vcxproj", "{3DE9BDCC-A3FB-4D8A-BC75-4378C4698A53}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DLLAsembler", "DLLAsembler\DLLAsembler.vcxproj", "{6B5E5308-3D50-44BD-9463-E4BB8BF58DAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70E8E83B-1ABE-47F9-B047-E95625C8A62B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70E8E83B-1ABE-47F9-B047-E95625C8A62B}.Debug|Win32.Build.0 = Debug|Win32
+		{70E8E83B-1ABE-47F9-B047-E95625C8A62B}.Release|Win32.ActiveCfg = Release|Win32
+		{70E8E83B-1ABE-47F9-B047-E95625C8A62B}.Release|Win32.Build.0 = Release|Win32
+		{3DE9BDCC-A3FB-4D8A-BC75-4378C4698A53}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3DE9BDCC-A3FB-4D8A-BC75-4378C4698A53}.Debug|Win32.Build.0 = Debug|Win32
+		{3DE9BDCC-A3FB-4D8A-BC75-4378C4698A53}.Release|Win32.ActiveCfg = Release|Win32
+		{3DE9BDCC-A3FB-4D8A-BC75-4378C4698A53}.Release|Win32.Build.0 = Release|Win32
+		{6B5E5308-3D50-44BD-9463-E4BB8BF58DAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6B5E5308-3D50-44BD-9463-E4BB8BF58DAC}.Debug|Win32.Build.0 = Debug|Win32
+		{6B5E5308-3D50-44BD-9463-E4BB8BF58DAC}.Release|Win32.ActiveCfg = Release|Win32
+		{6B5E5308-3D50-44BD-9463-E4BB8BF58DAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
